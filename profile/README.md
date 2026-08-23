@@ -5,5 +5,3 @@ Unofficial phone apps for [oldschool.runescape.wiki](https://oldschool.runescape
 - [Android](https://github.com/osrswiki/osrswiki-android)
 - [iOS](https://github.com/osrswiki/osrswiki-ios)
 - [Privacy policy](https://osrswiki.github.io/osrswiki-privacy-policy/)
-
-Support the apps: [contact.omiyawaki@gmail.com](mailto:contact.omiyawaki@gmail.com).
