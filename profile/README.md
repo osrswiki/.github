@@ -13,6 +13,7 @@ Search the wiki, read articles laid out for a phone screen, save pages for offli
 
 - **iPhone:** [Download on the App Store](https://apps.apple.com/us/app/osrs-wiki/id6788651409)
 - **Android:** Join the [osrswiki-testers](https://groups.google.com/g/osrswiki-testers) Google Group, then [open the Play testing link](https://play.google.com/apps/testing/com.omiyawaki.osrswiki) and tap Become a tester
+- **F-Droid:** [f-droid.org/packages/com.omiyawaki.osrswiki](https://f-droid.org/packages/com.omiyawaki.osrswiki/)
 
 ## Support
 
